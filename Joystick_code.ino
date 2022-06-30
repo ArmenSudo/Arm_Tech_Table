@@ -58,7 +58,6 @@ void loop () {
         else{
             ++tiv1;
         }
-       // Serial.print(tiv1);
         anjatich1 = true;
         delay(10);
   }
